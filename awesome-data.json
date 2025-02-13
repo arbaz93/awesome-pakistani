@@ -14,6 +14,17 @@
                     ]
                 },
                 {
+                    "name": "Yousaf Arbaz",
+                    "github_link": "https://github.com/arbaz93",
+                    "github_user": "arbaz93",
+                    "web": "https://yousafarbaz.netlify.app/",
+                    "technologies": [
+                        "React.js",
+                        "Next.js",
+                        "JavaScript"
+                    ]
+                },
+                {
                     "name": "Zeeshan Ahmad",
                     "github_link": "https://github.com/ziishaned",
                     "github_user": "ziishaned",
